@@ -1,0 +1,9 @@
+id: 7c934eddc7474cd18c359893497db839
+annotation_type: index
+revision: '00001'
+annotations:
+  7cd1e3251c8e4a6899c8b651c04c1ec4:
+    base: f8E5E.txt
+    span:
+      start: 0
+      end: 33542
